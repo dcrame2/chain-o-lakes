@@ -1,0 +1,130 @@
+
+body {
+    text-align: center;
+    
+}
+
+
+#title {
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.7)), url(images/col-image.jpeg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    
+}
+
+/* p {
+    padding: 0 10%;
+} */
+
+.marina-services {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.title-message {
+    padding: 15%;
+}
+
+.button {
+    background: none;
+    border: none;
+    color: #ff0000;
+    font-size: 50px;
+}
+
+
+#services {
+    background-color: #fff;
+}
+
+/* .service-images {
+    width: 40%;
+    border-radius: 50%;
+} */
+
+.service-col {
+    padding: 3% 0;
+    
+}
+
+
+#pictures {
+    /* width: 80%; */
+    background-color: #28527a;
+    text-align: center;
+    /* padding: 10px 100px; */
+    
+}
+
+.picture-col {
+    width: 75%;
+    margin-bottom: 4%;
+    border-radius: 8px;
+    
+}
+
+#shop {
+    background-color:  #28527a;
+}
+
+.shop-supplies {
+    justify-content: center;
+    text-align: left;
+    display: flex;
+    margin-bottom: 2%;
+    color: #fff;
+    /* background-color: #fff; */
+    border-radius: 8px;
+    width: 80%;
+    
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.shop-right {
+    text-align: right;
+}
+
+.shop-pic {
+    width: 20%;
+    border-radius: 10%;
+    margin: 0 50px;
+}
+
+.shop-message {
+    margin-top: 3%;
+    width: 30%;
+}
+
+.jumbo {
+    text-align: center;
+}
+
+span {
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
