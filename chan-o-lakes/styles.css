@@ -115,6 +115,42 @@ span {
 }
 
 
+/* FOOTER  */
+.footer-container {
+    background-color: #28527a;;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+    
+}
+
+.li-footer {
+    margin: 8% 2%;
+}
+
+.a-tag {
+    color: #fff;
+    text-decoration: none;
+}
+
+.a-tag:hover {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+.footer-p {
+    color: #fff;
+}
+
+
+
+
+
+
 
 
 
